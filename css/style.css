@@ -65,6 +65,14 @@ img.svg{
 	width: 15px;
 	height: 15px;
 }
+.cool{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 40px;
+    justify-content: center; 
+    margin: 45px;
+}
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #6f6f6f;
 }
