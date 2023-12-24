@@ -65,7 +65,8 @@ img.svg{
 	width: 15px;
 	height: 15px;
 }
-.cool{
+
+cool{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
