@@ -67,8 +67,8 @@ img.svg{
 }
 
 cool{
-    display: absolute;
-    display: flex;
+/*    display: absolute; */
+    display: flex; 
     flex-wrap: wrap;
     align-items: center;
     margin-bottom: 40px;
